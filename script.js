@@ -1,8 +1,11 @@
+//Variables [Do not change]
 const daysElement = document.getElementById("days");
 const hoursElement = document.getElementById("hours");
 const minutesElement = document.getElementById("mins");
 const secondsElement = document.getElementById("seconds");
 
+//Change the date to your Event Date
+//Currently it's set to up coming New Year's Eve
 const newEvent = "1 Jan 2021";
 
 function countdown() {
@@ -26,6 +29,7 @@ function timeFormat(time) {
   return time < 10 ? `0${time}` : time;
 }
 
+//Initial Call
 countdown();
-
+//Recursive Calls
 setInterval(countdown, 1000);
