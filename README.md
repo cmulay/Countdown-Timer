@@ -1,3 +1,1 @@
-# Countdown-Timer-Template
-
-Countdown Timer for all events.
+# Countdown Timer
