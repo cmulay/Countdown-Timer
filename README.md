@@ -23,7 +23,7 @@ Also change basic details like Title, Event Name from the Index.html file.
 
 ## Preview
 
-![Image of Countdown Timer Home](https://github.com/cmulay/Countdown-Timer/blob/master/assets/images/preview.png)
+![Image of Countdown Timer Home](https://github.com/cmulay/Countdown-Timer/blob/master/assets/preview.png)
 
 ## License
 
