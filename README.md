@@ -21,11 +21,9 @@ const newEvent = "1 Jan 2021";
 
 Also change basic details like Title, Event Name from the Index.html file.
 
-## Contributing
+## Preview
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+![Image of Countdown Timer Home](https://github.com/cmulay/Countdown-Timer/blob/master/assets/images/preview.png)
 
 ## License
 
